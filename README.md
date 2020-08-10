@@ -40,4 +40,46 @@
 ## My stats
 
 <!--START_SECTION:waka-->
+**I'm an early 🐤** 
+
+```text
+🌞 Morning    726 commits    █████████░░░░░░░░░░░░░░░░   37.54% 
+🌆 Daytime    974 commits    ████████████░░░░░░░░░░░░░   50.36% 
+🌃 Evening    228 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.79% 
+🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
+
+```
+
+
+📊 **This week I spent my time on** 
+
+```text
+⌚︎ Timezone: Europe/Madrid
+
+💬 Languages: 
+No Activity tracked this Week
+
+🔥 Editors: 
+No Activity tracked this Week
+
+🐱‍💻 Projects: 
+No Activity tracked this Week
+
+💻 Operating Systems: 
+No Activity tracked this Week
+
+```
+
+**I mostly code in JavaScript** 
+
+```text
+JavaScript               5 repos             ██████████░░░░░░░░░░░░░░░   41.67% 
+HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+PHP                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Python                   1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+
+```
+
+
+
 <!--END_SECTION:waka-->
