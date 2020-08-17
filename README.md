@@ -40,7 +40,7 @@
 ## My stats
 
 <!--START_SECTION:waka-->
-**I'm an early 🐤** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    727 commits    █████████░░░░░░░░░░░░░░░░   36.96% 
@@ -51,26 +51,26 @@
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Europe/Madrid
+⌚︎ Time zone: Europe/Madrid
 
-💬 Languages: 
-No Activity tracked this Week
+💬 Programming Languages: 
+No Activity Tracked This Week
 
-🔥 Editors: 
-No Activity tracked this Week
+🔥 Code Editors: 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-No Activity tracked this Week
+No Activity Tracked This Week
 
-💻 Operating Systems: 
-No Activity tracked this Week
+💻 Operating System: 
+No Activity Tracked This Week
 
 ```
 
-**I mostly code in JavaScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               5 repos             ██████████░░░░░░░░░░░░░░░   41.67% 
