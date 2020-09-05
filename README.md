@@ -57,18 +57,16 @@
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JavaScript               1 hr 8 mins         █████████████████░░░░░░░░   68.64% 
-PHP                      31 mins             ███████░░░░░░░░░░░░░░░░░░   31.36%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 39 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-htdocs                   1 hr 38 mins        ████████████████████████░   99.42% 
-shop-standards           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 39 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
