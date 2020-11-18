@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@luca_pipolo-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/luca_pipolo)](https://twitter.com/luca_pipolo)
 
 
-- 🔭 I’m currently working at [netzstrategen](https://github.com/netzstrategen).
+- 🔭 I’m currently working at [timeular](https://github.com/timeular) and as consultant at [netzstrategen](https://github.com/netzstrategen).
 - 🌱 I’m currently learning CraftCMS, Larvel and Docker.
 - 👯 I’m looking to collaborate on opensource projects based on React, Gatsby or CraftCMS.
 - 💬 Ask me about anything. I will try to help you as much as I can.
