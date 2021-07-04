@@ -57,16 +57,17 @@
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      57 mins             █████████████████████████   99.98% 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  57 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+htdocs                   57 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      57 mins             █████████████████████████   100.0%
 
 ```
 
@@ -83,5 +84,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/07/2021
+ Last Updated on 04/07/2021
 <!--END_SECTION:waka-->
