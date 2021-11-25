@@ -10,9 +10,6 @@
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - 📫 How to reach me: [dev@lucapipolo.com](dev@lucapipolo.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaPipolo)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## Languages
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
