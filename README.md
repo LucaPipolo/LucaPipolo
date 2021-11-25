@@ -4,9 +4,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-@luca_pipolo-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/luca_pipolo)](https://twitter.com/luca_pipolo)
 
 
-- 🔭 I’m currently working at [timeular](https://github.com/timeular) and as consultant at [netzstrategen](https://github.com/netzstrategen).
-- 🌱 I’m currently learning CraftCMS, Larvel and Docker.
-- 👯 I’m looking to collaborate on opensource projects based on React, Gatsby or CraftCMS.
+- 🔭 I’m currently working at [timeular](https://github.com/timeular)
+- 🌱 I’m currently learning Larvel
+- 👯 I’m looking to collaborate on opensource projects based on React, Next.js or Laravel.
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - 📫 How to reach me: [dev@lucapipolo.com](dev@lucapipolo.com)
 
@@ -39,49 +39,4 @@
 
 ## My stats
 
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    386 commits    ███████░░░░░░░░░░░░░░░░░░   30.02% 
-🌆 Daytime    724 commits    ██████████████░░░░░░░░░░░   56.3% 
-🌃 Evening    176 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in PHP** 
-
-```text
-PHP                      6 repos             ███████████░░░░░░░░░░░░░░   46.15% 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
-
-```
-
-
-
- Last Updated on 25/10/2021
-<!--END_SECTION:waka-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaPipolo)](https://github.com/anuraghazra/github-readme-stats)
