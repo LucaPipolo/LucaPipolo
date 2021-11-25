@@ -1,4 +1,4 @@
-# Hi there, I'm [Luca](https://www.lucapipolo.com) 👋
+# Hi there, I'm [Luca](https://www.lucapipolo.com) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Luca%20Pipolo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucapipolo/)](https://www.linkedin.com/in/lucapipolo/)
 [![Twitter Badge](https://img.shields.io/badge/-@luca_pipolo-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/luca_pipolo)](https://twitter.com/luca_pipolo)
