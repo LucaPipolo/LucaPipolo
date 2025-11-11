@@ -14,8 +14,9 @@ Let’s connect on [LinkedIn](https://www.linkedin.com/in/lucapipolo/?locale=en_
 
 [![ HTML](https://img.shields.io/static/v1?style=for-the-badge&label=&message=HTML&color=FFF&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![ CSS](https://img.shields.io/static/v1?style=for-the-badge&label=&message=CSS&color=FFF&logo=css&logoColor=2965f1)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-![ JavaScript](https://img.shields.io/static/v1?style=for-the-badge&label=&message=JavaScript&color=FFF&logo=javascript)
-![ TypeScript](https://img.shields.io/static/v1?style=for-the-badge&label=&message=TypeScript&color=FFF&logo=typescript)
+[![ Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Tailwind&color=FFF&logo=tailwindcss)](https://tailwindcss.com/)
+[![ JavaScript](https://img.shields.io/static/v1?style=for-the-badge&label=&message=JavaScript&color=FFF&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![ TypeScript](https://img.shields.io/static/v1?style=for-the-badge&label=&message=TypeScript&color=FFF&logo=typescript)](https://www.typescriptlang.org/)
 [![ React](https://img.shields.io/static/v1?style=for-the-badge&label=&message=React&color=FFF&logo=react)](https://react.dev/)
 [![ PHP](https://img.shields.io/static/v1?style=for-the-badge&label=&message=PHP&color=FFF&logo=php)](https://www.php.net/)
 [![ Node.js](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Node.js&color=FFF&logo=node.js)](https://nodejs.org/en)
