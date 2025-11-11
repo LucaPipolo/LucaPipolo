@@ -1,43 +1,37 @@
-# Hi there, I'm [Luca](https://www.lucapipolo.com) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
+# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Luca%20Pipolo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucapipolo/)](https://www.linkedin.com/in/lucapipolo/)
-[![Twitter Badge](https://img.shields.io/badge/-@luca_pipolo-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/luca_pipolo)](https://twitter.com/luca_pipolo)
+I’m Luca, Digital Consultant and Co-Founder at [somoscuatro](https://somoscuatro.es).<br>
+I help companies build high-performance, sustainable digital products that combine thoughtful design with solid engineering.
 
+Currently, I’m providing technical consultancy, helping teams make better decisions around technology, architecture, and scalability.<br>
+I also contribute as a CodeBuddy volunteer at [MigraCode](https://migracode.openculturalcenter.org/), mentoring new developers entering the tech world.
 
-- 🔭 I’m an Entrepreneur, a Co-Founder and Senior Front-End UX Developer at [somoscuatro](https://somoscuatro.es) and a CodeBuddy volunteer at [MigraCode](https://migracode.openculturalcenter.org/)
-- 🌱 I’m currently learning Node.js and MongoDB
-- 👯 I’m looking to collaborate on opensource projects based on React, Next.js or Laravel.
-- 💬 Ask me about anything. I will try to help you as much as I can.
-- 📫 How to reach me: [dev@lucapipolo.com](dev@lucapipolo.com)
+I love collaborating on open-source projects built on [Laravel](https://laravel.com/), [Filament](https://filamentphp.com/), [Statamic](https://statamic.com/), or [Next.js](https://nextjs.org/); especially those that aim to make a real impact.
 
-## Languages
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/lucapipolo/?locale=en_US)!
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-<img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
-<img align="left" alt="Gatsby" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg">
-<img align="left" alt="GraphQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">
-<img align="left" alt="PHP" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
-<img align="left" alt="WordPress" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">
-<img align="left" alt="WooCommerce" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-plain.svg">
-<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
+## Tech Stack
 
+[![ HTML](https://img.shields.io/static/v1?style=for-the-badge&label=&message=HTML&color=FFF&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![ CSS](https://img.shields.io/static/v1?style=for-the-badge&label=&message=CSS&color=FFF&logo=css&logoColor=2965f1)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+![ JavaScript](https://img.shields.io/static/v1?style=for-the-badge&label=&message=JavaScript&color=FFF&logo=javascript)
+![ TypeScript](https://img.shields.io/static/v1?style=for-the-badge&label=&message=TypeScript&color=FFF&logo=typescript)
+[![ React](https://img.shields.io/static/v1?style=for-the-badge&label=&message=React&color=FFF&logo=react)](https://react.dev/)
+[![ PHP](https://img.shields.io/static/v1?style=for-the-badge&label=&message=PHP&color=FFF&logo=php)](https://www.php.net/)
+[![ Node.js](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Node.js&color=FFF&logo=node.js)](https://nodejs.org/en)
 <br>
-<br>
+[![ Laravel](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Laravel&color=FFF&logo=laravel)](https://laravel.com/)
+[![ livewire](https://img.shields.io/static/v1?style=for-the-badge&label=&message=livewire&color=FFF&logo=livewire&logoColor=EE5D99)](https://livewire.laravel.com/)
+[![ Statamic](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Statamic&color=FFF&logo=statamic)](https://statamic.com/)
+[![ WordPress](https://img.shields.io/static/v1?style=for-the-badge&label=&message=WordPress&color=FFF&logo=wordpress&logoColor=333)](https://wordpress.com/)
+[![ Next.js](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Next.js&color=FFF&logo=next.js&logoColor=171717)](https://nextjs.org/)
 
 ## Tools
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-<img align="left" alt="Figma" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-<img align="left" alt="Storybook" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg">
-<img align="left" alt="Jest" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
-
-<br>
-<br>
+[![ Docker](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Docker&color=FFF&logo=docker)](https://orbstack.dev/)
+[![ Storybook](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Storybook&color=FFF&logo=storybook)](https://storybook.js.org/)
+[![ Prettier](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Prettier&color=FFF&logo=prettier&logoColor=000)](https://prettier.io/)
+[![ GitHub](https://img.shields.io/static/v1?style=for-the-badge&label=&message=GitHub&color=FFF&logo=github&logoColor=000)](https://github.com/)
+[![ Figma](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Figma&color=FFF&logo=figma)](https://www.figma.com/)
+[![ PHPSTORM](https://img.shields.io/static/v1?style=for-the-badge&label=&message=PHPSTORM&color=FFF&logo=phpstorm&logoColor=000)](https://www.jetbrains.com/phpstorm/)
+[![ Warp](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Warp&color=FFF&logo=warp)](https://www.warp.dev/)
